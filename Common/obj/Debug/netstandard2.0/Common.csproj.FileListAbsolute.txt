@@ -1,0 +1,9 @@
+D:\Univer\An IV\PAD\Labs\GRPC_Broker\GRPC_Broker\Common\bin\Debug\netstandard2.0\Common.deps.json
+D:\Univer\An IV\PAD\Labs\GRPC_Broker\GRPC_Broker\Common\bin\Debug\netstandard2.0\Common.dll
+D:\Univer\An IV\PAD\Labs\GRPC_Broker\GRPC_Broker\Common\bin\Debug\netstandard2.0\Common.pdb
+D:\Univer\An IV\PAD\Labs\GRPC_Broker\GRPC_Broker\Common\obj\Debug\netstandard2.0\Common.AssemblyInfoInputs.cache
+D:\Univer\An IV\PAD\Labs\GRPC_Broker\GRPC_Broker\Common\obj\Debug\netstandard2.0\Common.AssemblyInfo.cs
+D:\Univer\An IV\PAD\Labs\GRPC_Broker\GRPC_Broker\Common\obj\Debug\netstandard2.0\Common.dll
+D:\Univer\An IV\PAD\Labs\GRPC_Broker\GRPC_Broker\Common\obj\Debug\netstandard2.0\Common.pdb
+D:\Univer\An IV\PAD\Labs\GRPC_Broker\GRPC_Broker\Common\obj\Debug\netstandard2.0\Common.csproj.CoreCompileInputs.cache
+D:\Univer\An IV\PAD\Labs\GRPC_Broker\GRPC_Broker\Common\obj\Debug\netstandard2.0\Common.csprojAssemblyReference.cache
